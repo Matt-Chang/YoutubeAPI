@@ -5,9 +5,10 @@ I used pandas to pull all the data of my favorite YouTuber, Ken Jee, from Youtub
 
 
 I first import the libraries. 
-    import requests
-    import pandas as pd 
-    import time
+
+        import requests
+        import pandas as pd 
+        import time
 
 I spend some time reading YouTube API documentation. I then found my API key and the channel ID of my favorite data scientist, Ken Jee. 
 
